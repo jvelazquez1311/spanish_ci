@@ -1,4 +1,4 @@
-spanish_ci
-==========
+CI Spanish Translation
+======================
 
 CI Spanish Translation
